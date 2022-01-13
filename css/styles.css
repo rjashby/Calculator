@@ -1,3 +1,12 @@
 body {
   background-color: wheat;
 }
+
+#output {
+  box-sizing: border-box;
+  border: solid black 3px;
+  margin-top: 5px;
+  width: 20%;
+  background-color: black;
+  color: greenyellow;
+}
